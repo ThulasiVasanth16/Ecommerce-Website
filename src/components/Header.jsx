@@ -1,6 +1,6 @@
 import React from "react";
 import { Typography } from "@mui/material";
-import { HeaderAppBar, HeaderBox, LogoutButton } from "../Styles/header";
+import { HeaderAppBar, HeaderBox, LogoutButton } from "../styles/header";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import { useNavigate } from "react-router-dom";
 import Badge from "@mui/material/Badge";
