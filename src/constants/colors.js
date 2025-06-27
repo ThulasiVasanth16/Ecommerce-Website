@@ -1,0 +1,15 @@
+export const COLORS = {
+  PRIMARY: "#3d54b5",
+  SECONDARY: "#838383",
+  TEXT_PRIMARY: "#ffffff",
+  TEXT_SECONDARY:"Black",
+  RESET: "red",
+  PRIMARY_BORDER_COLOR: "#e6e6e6",
+  PRIMARY_BUTTON: "#979797",
+  SECONDARY_BUTTON: "#c6c6c6",
+  CART_BUTTON:"#e4e4e4",
+  BACKGROUND:"#f6f6f6",
+  DISABLE_CART:"#253c8b",
+  SECONDARY_BORDER_COLOR:"#e0e0e0",
+  PLACEORDER_BG:"#edf6fd",
+};
