@@ -19,12 +19,12 @@ export const PRODUCT  ={
 
 // Image Names 
 export const PRODUCTIMAGE = {
-    BREADIMG:"src/Assets/bread.jpg",
-    APPLEIMG:"src/Assets/apple.jpg",
-    CARROTIMG:"src/Assets/carrot.jpeg",
-    ONIONIMG:"src/Assets/onion.jpg",
-    DIARYIMG:"src/Assets/dessert.jpg",
-    SPICESIMG:"src/Assets/flakes.jpg",
+      BREADIMG:"src/assets/bread.jpg",
+    APPLEIMG:"src/assets/apple.jpg",
+    CARROTIMG:"src/assets/carrot.jpeg",
+    ONIONIMG:"src/assets/onion.jpg",
+    DIARYIMG:"src/assets/dessert.jpg",
+    SPICESIMG:"src/assets/flakes.jpg",
 }
 
 //Categories 
