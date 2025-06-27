@@ -1,5 +1,11 @@
-// Cost Constants
+import BREAD from "../assets/bread.jpg";
+import APPLE from "../assets/apple.jpg"
+import CARROT from "../assets/carrot.jpeg"
+import ONION from "../assets/onion.jpg"
+import DESSERT from "../assets/dessert.jpg"
+import FLAKES from "../assets/flakes.jpg"
 
+// Cost Constants
 export const firstCost = "35";
 export const secondCost = "20";
 
@@ -19,12 +25,12 @@ export const PRODUCT  ={
 
 // Image Names 
 export const PRODUCTIMAGE = {
-      BREADIMG:"src/assets/bread.jpg",
-    APPLEIMG:"src/assets/apple.jpg",
-    CARROTIMG:"src/assets/carrot.jpeg",
-    ONIONIMG:"src/assets/onion.jpg",
-    DIARYIMG:"src/assets/dessert.jpg",
-    SPICESIMG:"src/assets/flakes.jpg",
+    BREADIMG:BREAD,
+    APPLEIMG:APPLE,
+    CARROTIMG:CARROT,
+    ONIONIMG:ONION,
+    DIARYIMG:DESSERT,
+    SPICESIMG:FLAKES,
 }
 
 //Categories 
